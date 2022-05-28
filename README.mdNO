@@ -1,7 +1,7 @@
 # sheikhpkg updateی
 
  pkg install git python2 -y
- git clone https://github.com/Afghahikar420?tab=repositories
+ git clone https://github.com/shekh313?tab=repositories
 
 cd H4CK-FB
 
